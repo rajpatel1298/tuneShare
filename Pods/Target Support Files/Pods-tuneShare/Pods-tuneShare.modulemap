@@ -1,0 +1,6 @@
+framework module Pods_tuneShare {
+  umbrella header "Pods-tuneShare-umbrella.h"
+
+  export *
+  module * { export * }
+}
